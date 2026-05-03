@@ -3,7 +3,7 @@
 A landing page for the Women In DeFi (WID) community, built to showcase Cohort 3 and drive applications.
 
 ## 🌐 Live Site
-[View Live](my-site-5vt2-gw3roc6tu-fortuneozis-projects.vercel.app
+[View Live](https://my-site-5vt2.vercel.app/
 )
 
 ## 📌 About
